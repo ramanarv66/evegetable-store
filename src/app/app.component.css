@@ -1,0 +1,39 @@
+/* img {
+    width: 53%;
+    margin-left: 364px;
+    margin-top: 49px;
+} */
+
+/* .card-title{
+    border-radius: 0.2rem;
+    border-color: brown;
+    background-color: gray;
+} */
+
+.form-control {
+    width: 30%;
+    margin-bottom: 10px;
+}
+
+/* .btn {
+    min-width: 1.8em;
+    padding: .25em !important;
+    margin-left: .1em;
+    margin-right: .1em;
+    color: white !important;
+    cursor: pointer;
+} */
+
+#leftspan{
+    margin-left: 15px;
+}
+
+.navbar {
+    border-bottom: #008ed6 3px solid;
+    opacity: 0.8;
+  }
+  .bcground{
+    background-image: url('/assets/Vegetables.jpg');
+    background-size: cover;
+    background-position: center center;
+  }
